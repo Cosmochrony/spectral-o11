@@ -1,5 +1,5 @@
 This repository contains the source of the **O11** Cosmochrony paper  
-[*Weil-Block Projective Capacity on Heisenberg Graphs: Representation-Adapted Extraction of the Decay Exponent*](out/SpectralO11.pdf).
+*Weil-Block Projective Capacity on Heisenberg Graphs: Representation-Adapted Extraction of the Decay Exponent*.
 
 This work extends the **spectral admissibility sub-programme** by resolving the
 representation-level obstruction identified in **O10**, and by providing the
