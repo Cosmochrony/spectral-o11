@@ -3,5 +3,6 @@
   "web_url": "https://cosmochrony.org/science/spectral/program/o11/",
   "main_tex": "tex/SpectralO11.tex",
   "zenodo_id": 19169987,
-  "doi": "10.5281/zenodo.19169987"
+  "doi": "10.5281/zenodo.19169987",
+  "notes": "Version 1.1 (alpha-2). Identifies the interval [7.4, 10.6] quoted in O10 as a historical comparison range; the proxy value 3.4 is compared with it, and whether it persists under the exact Weil projection is left to O12 (the former 'proxy-level artefact' verdict, which rested on the range, is withdrawn). Results unchanged; the source bibliography style differs from version 1.0."
 }
